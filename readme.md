@@ -5,7 +5,6 @@ Predator is a framework for controlling a simulated UAV using multimodal AI. It 
 **Quick Links**
 
 - [Python Downloads](https://www.python.org/downloads/)
-- [MIT License](https://opensource.org/licenses/MIT)
 - [Flask Documentation](https://flask.palletsprojects.com/)
 
 ### Core Features
