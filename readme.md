@@ -79,10 +79,10 @@ Configure the AI models and environment variables.
 
     Then, reload your profile with `source ~/.profile`.
 
-  - **Create Custom LLaVA Model**: Use the provided Modelfile to create a specialized Ollama model.
+  - **Create Custom qwq Model**: Use the provided Modelfile to create a specialized Ollama model.
 
     ```bash
-    ollama pull LLaVA
+    ollama pull qwq
     ollama create Predator -f ./DroneAI/models/Modelfile
     ```
 
@@ -123,3 +123,6 @@ Optionally, run **QGroundControl** to monitor vehicle status.
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+
+
